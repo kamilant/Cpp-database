@@ -1,0 +1,47 @@
+- Method Name: [ DS ]
+- Physical Phenomena: [ physicalP0  ]
+- Depicted Feature: [ FSDA
+FSAD
+ ]
+- Image Type: [ imageType0  ]
+======================================
+- Method Name: [ method1  ]
+- Physical Phenomena: [ physicalP1  ]
+- Depicted Feature: [ depictedFeature1  ]
+- Image Type: [ imageType1  ]
+======================================
+- Method Name: [ method2  ]
+- Physical Phenomena: [ physicalP2  ]
+- Depicted Feature: [ depictedFeature2  ]
+- Image Type: [ imageType2  ]
+======================================
+- Method Name: [ method3  ]
+- Physical Phenomena: [ physicalP3  ]
+- Depicted Feature: [ depictedFeature3  ]
+- Image Type: [ imageType3  ]
+======================================
+- Method Name: [ method4  ]
+- Physical Phenomena: [ physicalP4  ]
+- Depicted Feature: [ depictedFeature4  ]
+- Image Type: [ imageType4  ]
+======================================
+- Method Name: [ method5  ]
+- Physical Phenomena: [ physicalP5  ]
+- Depicted Feature: [ depictedFeature5  ]
+- Image Type: [ imageType5  ]
+======================================
+- Method Name: [ SD ]
+- Physical Phenomena: [ AAS
+DA
+SD ]
+- Depicted Feature: [ ASD ]
+- Image Type: [ SD ]
+======================================= 
+- Method Name: [ te ]
+- Physical Phenomena: [ tekst das jklfa
+fjkldajdf a ]
+- Depicted Feature: [ fjalskdj as dkajs 
+jksaldjlkaj laks jda
+ ]
+- Image Type: [ Type ]
+======================================= 
